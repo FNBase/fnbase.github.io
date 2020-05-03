@@ -1,7 +1,4 @@
 theme: jekyll-theme-slate
 # Site settings
-title: FNBase Team
-description: "FNBase에 문제가 생겼나요?"
-# Progressive Web Apps
-chrome-tab-theme-color: "#5998d6"
-service-worker: true
+title: FNBase Emergency
+description: "FNBase 서버 다운시 정확한 상황을 알려드립니다."
