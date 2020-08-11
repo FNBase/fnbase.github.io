@@ -6,6 +6,6 @@
 
 해결 방안 : 트래픽 증가 신청을 해뒀음
 
-대피소: [신흥위키 갤러리](https://dcinside.com/board/sinheungwiki)
+대피소: [신흥위키 갤러리](https://m.dcinside.com/board/sinheungwiki)
 
 (호스팅 제공사에 과도한 트래픽이 몰릴 경우 터지기도 하나, 일시적인 경우가 많음.)
